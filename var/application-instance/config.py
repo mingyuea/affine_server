@@ -1,0 +1,6 @@
+DBUSER = 'ming'
+DBPASS = 'Secure1'
+DBHOST = '127.0.0.1'
+DBNAME = 'affine'
+SECRET_KEY = 'dev'
+ALLOW_ORIGIN = 'http://localhost:8080'
